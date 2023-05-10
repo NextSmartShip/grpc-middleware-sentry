@@ -1,6 +1,6 @@
-module github.com/johnbellone/grpc-middleware-sentry
+module github.com/NextSmartShip/grpc-middleware-sentry
 
-go 1.17
+go 1.20
 
 require (
 	github.com/getsentry/sentry-go v0.20.0
